@@ -11,6 +11,7 @@ h1 {
 }
 
 #meme {
+    margin-top: 25%;
     height:400px;
     width:100%;
     border: 5px solid white
