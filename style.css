@@ -28,3 +28,12 @@ div {
     margin-left: 25%
     
 }
+
+@media (max-width: 680px ) {
+
+    #meme {
+        height: 30%;
+        width: 50;
+    }
+
+}
